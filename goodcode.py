@@ -1,3 +1,11 @@
+"""
+Course: ITSC 3155
+Purpose: The calculator class is meant to do basic arithmetic. Every method
+takes two int parameters and can compute the four basic arithmetic operations
+add, subtract, multiplye and divide.
+Author: Ranvita Kothapalli
+"""
+
 class Calculator:
 
     """" The add method takes two int parameters. The add() method will them
