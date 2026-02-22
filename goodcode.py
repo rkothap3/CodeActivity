@@ -8,4 +8,8 @@ class Calculator:
     def subtract(a,b):
         return a - b
 
+    @staticmethod
+    def multiple(a,b):
+        return a * b
+
     
