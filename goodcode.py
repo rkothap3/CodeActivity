@@ -9,7 +9,9 @@ class Calculator:
         return a - b
 
     @staticmethod
-    def multiple(a,b):
+    def multiply(a,b):
         return a * b
 
-    
+    @staticmethod
+    def divide(a,b):
+        return a / b
